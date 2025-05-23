@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nganzivictor
-- 👀 I’m interested in ...making projects in React.js Node.js 
-- 🌱 I’m currently learning ...Python
+- 👀 I’m interested in ...making projects in PHP and collaborating in Node.js
 - 💞️ I’m looking to collaborate on ...on anything that involves the forementioned
 - 📫 How to reach me ...message me victornganzi7@gmail.com
 - 😄 Pronouns: ...He/Him
